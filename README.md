@@ -43,5 +43,13 @@ pip install jupyter ipykernel
 jupyter notebook
 ```
 
+---
+## Visualisations
+## Sales Analysis
 
+![Sales Chart depicting monthly revenue trends](images/sales_chart.png)
+
+## Revenue Analysis
+
+![Revenue Plot showing profit margins](images/revenue_plot.png)
 
