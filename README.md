@@ -45,11 +45,12 @@ jupyter notebook
 
 ---
 ## Visualisations
-## Sales Analysis
+## Monthly Orders
 
-![Sales Chart depicting monthly revenue trends](images/sales_chart.png)
+![Monthly Orders](Data-Analysis-Ecommerce\images\monthly_orders.png)
+
 
 ## Revenue Analysis
 
-![Revenue Plot showing profit margins](images/revenue_plot.png)
+![Revenue image](Data-Analysis-Ecommerce\images\revenue_per_seller.png)
 
