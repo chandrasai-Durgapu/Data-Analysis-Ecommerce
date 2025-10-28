@@ -45,12 +45,5 @@ jupyter notebook
 
 ---
 ## Visualisations
-## Monthly Orders
-
-![Monthly Orders](Data-Analysis-Ecommerce\images\monthly_orders.png)
-
-
-## Revenue Analysis
-
-![Revenue image](Data-Analysis-Ecommerce\images\revenue_per_seller.png)
+Visualisations present in Images folder
 
