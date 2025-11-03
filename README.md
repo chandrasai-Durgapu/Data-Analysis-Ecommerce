@@ -1,5 +1,5 @@
 # Data-Analysis-Ecommerce
-Data Analysis of EcommerceCART(this database repository is already present in github) using python and pandas and matplotlib and seaborn
+Data Analysis of EcommerceCART and data is fetched from sql server (this database repository is already present in github) using python and pandas and matplotlib and seaborn
 
 This project analyzes an e-commerce dataset, exploring top products, customer behavior, revenue trends, and stock management. All queries are executed via SQL, and results are visualized using Python (pandas, seaborn, matplotlib).
 
